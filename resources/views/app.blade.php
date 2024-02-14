@@ -35,6 +35,7 @@
   <body class="font-montserrat antialiased ">
     <div>
         <h1 class="p-5">Hi jeya</h1>
+        <img src="{{ asset('resources/images/meta_image.png') }}" alt="image-test">
     </div>
     {{-- @inertia --}}
   </body>
