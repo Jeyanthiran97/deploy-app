@@ -2,3 +2,9 @@ body {
     background-color: rgb(68, 56, 56);
     color: white;
 }
+
+.img-size {
+    width: 400px;
+    height: 200px;
+    align-items: center;
+}
